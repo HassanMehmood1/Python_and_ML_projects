@@ -8,3 +8,4 @@ while (True):
         break
 cap.release()
 cv2.destroyAllWindows()
+# destroying all window is must here
